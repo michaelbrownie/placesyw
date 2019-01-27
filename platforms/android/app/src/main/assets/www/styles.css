@@ -31977,3 +31977,26 @@ iframe#viAd {
   overflow: visible;
   clip: auto;
 }
+
+.imgthumb[data-v-305e06f6]{
+    height: 60px !important;
+    width: 60px !important;
+}
+.page[data-v-305e06f6]{
+    background-color: #e0e0e0;
+}
+.deleteSpan[data-v-305e06f6]{
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.page[data-v-538e94e4]{
+    background-color: #e0e0e0;
+}
+input[data-v-538e94e4]{
+    width: 100%;
+}
+textarea[data-v-538e94e4]{
+    width: 100%;
+}
